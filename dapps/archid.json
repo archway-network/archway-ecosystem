@@ -1,0 +1,18 @@
+{
+  "name": "ArchID",
+  "categories": ["NFTs"],
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": true,
+  "url": "https://archid.app/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "ArchID.png",
+  "cover": "",
+  "github": "https://github.com/archid-protocol",
+  "twitter": "https://twitter.com/archidapp",
+  "discord": "https://discord.gg/ghCCDu3dPB",
+  "telegram": ""
+}

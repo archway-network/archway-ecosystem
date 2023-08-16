@@ -1,0 +1,18 @@
+{
+  "name": "DeFund Finance",
+  "categories": ["DeFi"],
+  "is_live": false,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://www.defund.app/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "DeFund.png",
+  "cover": "",
+  "github": "https://github.com/defund-labs",
+  "twitter": "https://twitter.com/defund_finance",
+  "discord": "https://discord.com/invite/QuXAdnd7Pc",
+  "telegram": ""
+}

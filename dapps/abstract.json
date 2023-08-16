@@ -1,0 +1,18 @@
+{
+  "name": "Abstract",
+  "categories": ["Infrastructure"],
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://abstract.money/",
+  "email": "contact@abstract.money",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "Abstract.png",
+  "cover": "",
+  "github": "https://github.com/AbstractSDK",
+  "twitter": "https://twitter.com/AbstractSDK",
+  "discord": "https://discord.gg/uch3Tq3aym",
+  "telegram": ""
+}

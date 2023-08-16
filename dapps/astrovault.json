@@ -1,0 +1,18 @@
+{
+  "name": "Astrovault",
+  "categories": ["Defi"],
+  "is_live": true,
+  "is_featured": true,
+  "is_trending": false,
+  "url": "https://astrovault.io/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "Astrovault.png",
+  "cover": "Astrovault-cover.png",
+  "github": "",
+  "twitter": "https://twitter.com/axvdex",
+  "discord": "https://astrovault.io/discord",
+  "telegram": "https://astrovault.io/telegram"
+}

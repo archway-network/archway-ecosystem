@@ -1,0 +1,18 @@
+{
+  "name": "Vectis",
+  "categories": ["Wallets", "Infrastructure"],
+  "is_live": false,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://testnet-app.vectis.space/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "Vectis.png",
+  "cover": "",
+  "github": "",
+  "twitter": "https://twitter.com/VectisDAO",
+  "discord": "",
+  "telegram": ""
+}

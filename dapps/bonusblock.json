@@ -1,0 +1,18 @@
+{
+  "name": "BonusBlock",
+  "categories": ["DeFi", "NFTs", "Games", "Social Media"],
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": true,
+  "url": "https://archway.bonusblock.io",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "BonusBlock.png",
+  "cover": "",
+  "github": "https://github.com/orgs/BBlockLabs/repositories",
+  "twitter": "https://twitter.com/bonus_block",
+  "discord": "",
+  "telegram": "https://t.me/bonusblock"
+}

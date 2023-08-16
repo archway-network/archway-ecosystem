@@ -1,0 +1,18 @@
+{
+  "name": "Leap",
+  "categories": ["Wallets"],
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://www.leapwallet.io/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "Leap.png",
+  "cover": "",
+  "github": "",
+  "twitter": "https://twitter.com/leap_wallet",
+  "discord": "https://discord.com/invite/HuZWPH6zHk",
+  "telegram": "https://t.me/leap_cosmos"
+}
