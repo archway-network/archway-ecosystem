@@ -1,0 +1,20 @@
+name: Deploy UAT Preview
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Post to the webhook ecosystem channel
+        id: slack
+        uses: slackapi/slack-github-action@v1.24.0
+        with:
+          channel-id: 'C05N48KD7RQ'
+          slack-message: "<!subteam^S04A39EKLTW|devx> :tada: *Ecosystem repository Pull Request merged* :tada:\n${{ github.event.pull_request.html_url || github.event.head_commit.url }}"
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
