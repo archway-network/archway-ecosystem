@@ -4,15 +4,15 @@
   "is_live": false,
   "is_featured": false,
   "is_trending": false,
-  "url": "",
+  "url": "https://catalyst.exchange/",
   "email": "",
   "phone": "",
   "location": "",
   "summary": "",
   "logo": "Catalyst.png",
   "cover": "",
-  "github": "",
-  "twitter": "",
+  "github": "https://github.com/catalystdao",
+  "twitter": "https://twitter.com/CatalystAMM",
   "discord": "",
-  "telegram": ""
+  "telegram": "https://t.me/CatalystChat"
 }
