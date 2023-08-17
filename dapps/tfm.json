@@ -1,18 +1,18 @@
 {
   "name": "TFM",
-  "categories": ["DeFi", "NFTs"],
+  "categories": ["DeFi", "NFTs", "Dashboard & Analytics"],
   "is_live": false,
   "is_featured": false,
   "is_trending": false,
-  "url": "",
-  "email": "",
+  "url": "https://tfm.com/ibc?chainFrom=cosmoshub-4&chainTo=archway-1&token0=uatom&token1=aarch",
+  "email": "it@tfm.com",
   "phone": "",
   "location": "",
   "summary": "",
   "logo": "TFM.png",
   "cover": "",
-  "github": "",
-  "twitter": "",
-  "discord": "",
-  "telegram": ""
+  "github": "https://github.com/tfm-com",
+  "twitter": "https://twitter.com/tfm_com",
+  "discord": "https://discord.gg/538PrcubY9",
+  "telegram": "https://t.me/tfmofficialchat"
 }
