@@ -28,10 +28,10 @@ The Ecosystem page is built on a standard schema per project, any pull requests 
 
 Example:
 
-```
+```json
 {
   "name": "Example Project",
-  "categories": ["DeFi"] ["Governance & DAO Tooling"],
+  "categories": ["DeFi", "Governance & DAO Tooling"],
   "is_live": true,
   "is_featured": false,
   "is_trending": false,
@@ -49,7 +49,7 @@ Example:
 }
 ```
 
-**Please ensure** `is_featured` and `is_trending` remain flagged as false, this is managed centrally for the time being
+**Please ensure** `is_featured` and `is_trending` remain flagged as false, this is managed centrally for the time being.
 
 ## Folders Explanation
 
