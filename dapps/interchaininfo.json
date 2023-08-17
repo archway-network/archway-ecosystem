@@ -1,0 +1,18 @@
+{
+  "name": "Interchain Info",
+  "categories": ["Dashboard & Analytics"],
+  "is_live": false,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://interchaininfo.zone/indexes/archway",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "interchaininfo.png",
+  "cover": "",
+  "github": "",
+  "twitter": "https://twitter.com/InterchainInfo",
+  "discord": "",
+  "telegram": ""
+}
