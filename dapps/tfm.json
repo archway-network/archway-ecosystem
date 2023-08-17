@@ -1,7 +1,7 @@
 {
   "name": "TFM",
   "categories": ["DeFi", "NFTs", "Dashboard & Analytics"],
-  "is_live": false,
+  "is_live": true,
   "is_featured": false,
   "is_trending": false,
   "url": "https://tfm.com/ibc?chainFrom=cosmoshub-4&chainTo=archway-1&token0=uatom&token1=aarch",
