@@ -4,22 +4,22 @@ Welcome to the Archway Ecosystem repository! This guide provides detailed instru
 
 ## How to Contribute
 
-1. **Clone the Repository:** 
+1. **Clone the Repository:**
    Clone this repository to your local machine using `git clone`.
 
-2. **Create a New Branch:** 
+2. **Create a New Branch:**
    Before making any changes, create a new branch with a meaningful name, e.g., `add-your-project-name`.
 
-3. **Make Your Changes:** 
+3. **Make Your Changes:**
    Add or edit the files according to the schema provided. Please refer to sections below for further guidelines.
 
-4. **Commit Your Changes:** 
+4. **Commit Your Changes:**
    Make sure to write a concise and informative commit message.
 
-5. **Push to Your Branch:** 
+5. **Push to Your Branch:**
    Push the changes to your branch on GitHub.
 
-6. **Open a Pull Request:** 
+6. **Open a Pull Request:**
    Navigate to the GitHub page of this repository, switch to your branch, and click "New Pull Request" to open a pull request for the rest of the community to review.
 
 ## Schema
@@ -73,6 +73,9 @@ Please use one of the following predefined categories for the `"categories"` fie
 - Bridges
 - Explorers
 - Social Media
+- Validators
+- Relayers
+- Tooling
 
 We are open to adding new categories if there are additional groupings that emerge in the ecosystem, for now anything added in this field outside of the predefined list will be ignored.
 
