@@ -1,6 +1,6 @@
 {
   "name": "NodesOps",
-  "categories": ["Explorers"],
+  "categories": ["Infrastructure", "Explorers"],
   "is_live": true,
   "is_featured": false,
   "is_trending": false,
