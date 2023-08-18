@@ -67,7 +67,7 @@ Please use one of the following predefined categories for the `"categories"` fie
 - NFTs
 - Infrastructure
 - Governance & DAO Tooling
-- Dashboard & Analytics
+- Dashboards & Analytics
 - Games
 - Wallets
 - Bridges
