@@ -1,7 +1,7 @@
 {
   "name": "Pulsar Finance",
   "categories": ["Dashboards & Analytics"],
-  "is_live": false,
+  "is_live": true,
   "is_featured": false,
   "is_trending": false,
   "url": "https://app.pulsar.finance/",
@@ -14,5 +14,5 @@
   "github": "",
   "twitter": "https://twitter.com/PulsarFinance",
   "discord": "",
-  "telegram": ""
+  "telegram": "https://t.me/pulsarfinance"
 }
