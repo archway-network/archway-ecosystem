@@ -1,0 +1,18 @@
+{
+  "name": "Chelo Labs",
+  "categories": ["DeFi", "Governance & DAO Tooling", "R&D", "Multisig"],
+  "is_live": false,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://chelo.fi/",
+  "email": "hello@chelo.fi",
+  "phone": "**********",
+  "location": "London",
+  "summary": "Chelo Labs is an R&D lab, we are committed to creating modular solutions for on-chain decision-making, communication, and Govarnance",
+  "logo": "LOGO(1).png",
+  "cover": "Twitterheader2(2).png",
+  "github": "https://github.com/chelofinance/",
+  "twitter": "https://twitter.com/Chelo_labs",
+  "discord": "https://discord.gg/m4JrWGKS",
+  "telegram": "https://t.me/+1y-xkQS8XdlkMDJk"
+}
