@@ -1,7 +1,7 @@
 {
   "name": "Galaflux",
   "categories": ["Infrastructure", "Governance & DAO Tooling"],
-  "is_live": true,
+  "is_live": false,
   "is_featured": false,
   "is_trending": false,
   "url": "https://galaflux-labs.github.io/",
