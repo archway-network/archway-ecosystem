@@ -1,7 +1,7 @@
 {
   "name": "Interchain Info",
   "categories": ["Dashboards & Analytics"],
-  "is_live": false,
+  "is_live": true,
   "is_featured": false,
   "is_trending": false,
   "url": "https://interchaininfo.zone/indexes/archway",
