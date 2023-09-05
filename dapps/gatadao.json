@@ -1,7 +1,7 @@
 {
   "name": "GataDAO",
   "categories": ["NFTs", "Governance & DAO Tooling"],
-  "is_live": false,
+  "is_live": true,
   "is_featured": false,
   "is_trending": false,
   "url": "http://gatadao.zone/",
