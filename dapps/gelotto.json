@@ -1,9 +1,9 @@
 {
   "name": "Gelotto",
   "categories": ["DeFi", "Games", "NFTs"],
-  "is_live": false,
+  "is_live": true,
   "is_featured": false,
-  "is_trending": false,
+  "is_trending": true,
   "url": "https://gelotto.io/",
   "email": "",
   "phone": "",
