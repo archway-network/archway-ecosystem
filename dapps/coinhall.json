@@ -1,10 +1,10 @@
 {
   "name": "Coinhall",
   "categories": ["DeFi"],
-  "is_live": false,
+  "is_live": true,
   "is_featured": false,
-  "is_trending": false,
-  "url": "https://coinhall.org/",
+  "is_trending": true,
+  "url": "https://coinhall.org/?chains=archway&verified=true&reliable=true&tab=all&timeframe=24h&sort=volume&dir=desc",
   "email": "",
   "phone": "",
   "location": "",
