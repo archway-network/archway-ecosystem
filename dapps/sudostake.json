@@ -1,10 +1,10 @@
 {
   "name": "Sudo Stake",
   "categories": ["DeFi"],
-  "is_live": false,
+  "is_live": true,
   "is_featured": false,
-  "is_trending": false,
-  "url": "",
+  "is_trending": true,
+  "url": "https://sudostake.vercel.app/",
   "email": "",
   "phone": "",
   "location": "",
