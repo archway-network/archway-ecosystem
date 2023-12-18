@@ -1,6 +1,7 @@
 {
   "name": "Vectis",
   "categories": ["Wallets", "Infrastructure"],
+  "main_category": "Wallets",
   "is_live": false,
   "is_featured": false,
   "is_trending": false,

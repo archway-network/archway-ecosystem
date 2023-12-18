@@ -1,6 +1,7 @@
 {
   "name": "ArchiTech",
   "categories": ["NFTs"],
+  "main_category": "NFTs",
   "is_live": true,
   "is_featured": false,
   "is_trending": false,

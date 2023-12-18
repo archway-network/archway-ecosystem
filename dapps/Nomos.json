@@ -1,6 +1,7 @@
 {
 "name": "Nomos",
 "categories": ["DeFi", "Governance & DAO Tooling"],
+"main_category": "DeFi",
 "is_live": true,
 "is_featured": false,
 "is_trending": false,

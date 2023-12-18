@@ -1,6 +1,7 @@
 {
   "name": "NodesGuru",
   "categories": ["Explorers"],
+  "main_category": "Explorers",
   "is_live": true,
   "is_featured": false,
   "is_trending": false,

@@ -1,6 +1,7 @@
 {
   "name": "Catalyst",
   "categories": ["DeFi", "Infrastructure", "Bridges"],
+  "main_category": "DeFi",
   "is_live": false,
   "is_featured": false,
   "is_trending": false,

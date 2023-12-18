@@ -1,6 +1,7 @@
 {
   "name": "TFM",
   "categories": ["DeFi", "NFTs", "Dashboard & Analytics"],
+  "main_category": "DeFi",
   "is_live": true,
   "is_featured": false,
   "is_trending": false,

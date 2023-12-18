@@ -1,6 +1,7 @@
 {
   "name": "Axelar",
   "categories": ["Bridges"],
+  "main_category": "Bridges",
   "is_live": true,
   "is_featured": false,
   "is_trending": false,
