@@ -10,7 +10,7 @@
   "location": "",
   "summary": "Abstract offers a scalable full-stack CosmWasm framework emphasizing modularity, enabling better maintainability and seamless composability between teams, applications, and chains",
   "logo": "Abstract.png",
-  "cover": "",
+  "cover": "Abstract-cover.png",
   "github": "https://github.com/AbstractSDK",
   "twitter": "https://twitter.com/AbstractSDK",
   "discord": "https://discord.gg/uch3Tq3aym",

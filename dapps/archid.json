@@ -10,7 +10,7 @@
   "location": "",
   "summary": "A social security number is how official sources identify you, but not how you introduce yourself. You do that with your name. Start using your ArchID instead of an unmemorable string to identify yourself in Archway",
   "logo": "ArchID.png",
-  "cover": "",
+  "cover": "ArchID-cover.png",
   "github": "https://github.com/archid-protocol",
   "twitter": "https://twitter.com/archidapp",
   "discord": "https://discord.gg/ghCCDu3dPB",
