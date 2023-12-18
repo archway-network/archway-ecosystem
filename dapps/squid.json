@@ -1,6 +1,6 @@
 {
   "name": "Squid",
-  "categories": ["Infrastructure", "DeFi"],
+  "categories": ["Infrastructure", "DeFi", "Bridges"],
   "main_category": "DeFi",
   "is_live": true,
   "is_featured": false,
