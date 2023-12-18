@@ -1,6 +1,7 @@
 {
   "name": "Pulsar Finance",
   "categories": ["Dashboards & Analytics"],
+  "main_category": "Dashboards & Analytics",
   "is_live": true,
   "is_featured": false,
   "is_trending": false,

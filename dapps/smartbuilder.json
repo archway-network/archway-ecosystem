@@ -1,6 +1,7 @@
 {
   "name": "SmartBuilder",
   "categories": ["Infrastructure"],
+  "main_category": "Infrastructure",
   "is_live": false,
   "is_featured": false,
   "is_trending": false,

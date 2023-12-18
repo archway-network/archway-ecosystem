@@ -1,6 +1,7 @@
 {
   "name": "Galactic Pools",
   "categories": ["Games"],
+  "main_category": "Games",
   "is_live": false,
   "is_featured": false,
   "is_trending": false,

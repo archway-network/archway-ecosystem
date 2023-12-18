@@ -1,6 +1,7 @@
 {
   "name": "Cosmostation",
   "categories": ["Wallets"],
+  "main_category": "Wallets",
   "is_live": true,
   "is_featured": false,
   "is_trending": false,

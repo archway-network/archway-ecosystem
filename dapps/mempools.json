@@ -1,6 +1,7 @@
 {
   "name": "Mempools",
   "categories": ["Infrastructure"],
+  "main_category": "Infrastructure",
   "is_live": true,
   "is_featured": false,
   "is_trending": false,

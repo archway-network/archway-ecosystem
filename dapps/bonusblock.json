@@ -1,6 +1,7 @@
 {
   "name": "BonusBlock",
   "categories": ["DeFi", "NFTs", "Games", "Social Media"],
+  "main_category": "DeFi",
   "is_live": true,
   "is_featured": false,
   "is_trending": true,

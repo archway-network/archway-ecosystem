@@ -1,6 +1,7 @@
 {
   "name": "Astrovault",
   "categories": ["Defi"],
+  "main_category": "Defi",
   "is_live": true,
   "is_featured": true,
   "is_trending": false,

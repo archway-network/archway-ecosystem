@@ -1,6 +1,7 @@
 {
   "name": "MC2 Finance",
   "categories": ["DeFi"],
+  "main_category": "DeFi",
   "is_live": false,
   "is_featured": false,
   "is_trending": false,
