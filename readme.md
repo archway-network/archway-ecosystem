@@ -31,6 +31,7 @@ Example:
 ```json
 {
   "name": "Example Project",
+  "main_category": "DeFi",
   "categories": ["DeFi", "Governance & DAO Tooling"],
   "is_live": true,
   "is_featured": false,
