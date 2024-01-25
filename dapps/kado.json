@@ -2,7 +2,7 @@
   "name": "Kado",
   "categories": ["Infrastructure", "Bridges"],
   "main_category": "Bridges",
-  "is_live": false,
+  "is_live": true,
   "is_featured": false,
   "is_trending": false,
   "url": "https://www.kado.money/",
