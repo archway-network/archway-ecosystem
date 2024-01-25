@@ -1,0 +1,22 @@
+{
+    "name": "Cede.store",
+    "main_category": "Bridges",
+    "categories": [
+        "Bridges",
+        "Wallets"
+    ],
+    "is_live": true,
+    "is_featured": false,
+    "is_trending": false,
+    "url": "https://www.cede.store/partners",
+    "email": "ryan.thibault@cedelabs.io",
+    "phone": "+33619270681",
+    "location": "France",
+    "summary": "Access and transfer your assets from 10+ Centralized Exchanges, with a DeFi UX",
+    "logo": "cede_store_logo.png",
+    "cover": "banner_cede_store.jpg",
+    "github": "https://github.com/cedelabs",
+    "twitter": "https://twitter.com/cedelabs",
+    "discord": "https://discord.gg/5N3WDkMkU4",
+    "telegram": "https://t.me/+dEiQKnqkKCFhNmY8"
+}
