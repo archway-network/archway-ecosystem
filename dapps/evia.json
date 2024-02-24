@@ -1,0 +1,20 @@
+{
+    "name": "Evia",
+    "categories": ["DeFi"],
+    "main_category": "DeFi",
+    "is_live": true,
+    "is_featured": false,
+    "is_trending": false,
+    "url": "https://app.evia.network",
+    "email": "Hello@evia.network",
+    "phone": "",
+    "location": "United Arab Emirates",
+    "summary": "The Next Generation of Wealth Creation.",
+    "logo": "evia.png",
+    "cover": "Evia_cover.jpeg",
+    "github": "",
+    "twitter": "https://twitter.com/evianetwork",
+    "discord": "https://discord.evia.network",
+    "telegram": "https://t.me/eviacommunity"
+  }
+  
