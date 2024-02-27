@@ -1,0 +1,20 @@
+{
+    "name": "Crypto.com",
+    "categories": ["DeFi", "Wallets"],
+    "main_category": "DeFi",
+    "is_live": true,
+    "is_featured": false,
+    "is_trending": false,
+    "url": "https://crypto.com/",
+    "email": "contact@crypto.com",
+    "phone": "",
+    "location": "",
+    "summary": "The best place to buy, sell, and pay with crypto",
+    "logo": "CryptoCom.jpeg",
+    "cover": "CryptoCom-cover.jpeg",
+    "github": "https://github.com/crypto-com",
+    "twitter": "https://twitter.com/cryptocom",
+    "discord": "https://discord.com/invite/cryptocom",
+    "telegram": "https://crypto.com/product-news/official-crypto-com-communities"
+  }
+  
