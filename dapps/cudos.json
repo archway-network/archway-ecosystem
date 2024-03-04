@@ -1,0 +1,20 @@
+{
+    "name": "Cudos",
+    "categories": ["Infrastructure", "Tooling"],
+    "main_category": "Infrastructure",
+    "is_live": false,
+    "is_featured": false,
+    "is_trending": false,
+    "url": "https://www.cudos.org/",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "summary": "We unite cloud and blockchain to make computing sustainably cost-effective",
+    "logo": "cudos.webp",
+    "cover": "",
+    "github": "https://github.com/CudoVentures/",
+    "twitter": "https://twitter.com/CUDOS_",
+    "discord": "https://discord.com/invite/cudos",
+    "telegram": "https://t.me/cudostelegram"
+  }
+  
