@@ -103,3 +103,7 @@ We strongly recommend running all images through a compression system like [tiny
 <br>
 
 Thank you for contributing to the Archway Ecosystem page! Your efforts are helping to create a valuable resource for the community.
+
+## Feature Your Dapp on the Mintscan Archway Ecosystem Page
+
+Please also consider submitting to the [Archway Mintscan ecosystem page](https://www.mintscan.io/archway/ecosystem). To get your dapp listed, you will need to submit a Pull Request to their [Chainlist repository](https://github.com/cosmostation/chainlist/tree/main/mintscan/archway). For instructions on how to submit your dapp, please refer to the following [README](https://github.com/cosmostation/chainlist/tree/main/mintscan#1-how-to-add-your-dapp-in-ecosystem).
