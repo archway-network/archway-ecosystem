@@ -1,0 +1,15 @@
+{
+    "name": "Galaxy Exchange",
+    "main_category": "Bridges",
+    "categories": ["Bridges", "DeFi", "Infrastructure"],
+    "is_live": true,
+    "is_featured": false,
+    "is_trending": false,
+    "url": "https://galaxy.exchange",
+    "email": "support@swing.xyz",
+    "summary": "Swap any token for any token, on any chain",
+    "logo": "",
+    "cover": "",
+    "twitter": "https://x.com/GalaxyExchangeX",
+    "discord": "https://discord.com/invite/VYgbmdkwsS"
+}
