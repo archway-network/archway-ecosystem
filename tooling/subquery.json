@@ -1,0 +1,19 @@
+{
+  "name": "SubQuery",
+  "main_category": "Infrastructure",
+  "categories": ["Dashboards & Analytics", "Tooling"],
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://subquery.network/",
+  "email": "start@subquery.network",
+  "phone": "",
+  "location": "",
+  "summary": "Open-source data indexer that provides you with custom APIs for your web3 project",
+  "logo": "subquery.png",
+  "cover": "",
+  "github": "https://github.com/subquery/",
+  "twitter": "https://twitter.com/subquerynetwork",
+  "discord": "https://discord.com/invite/subquery",
+  "telegram": "https://t.me/subquerynetwork"
+}
