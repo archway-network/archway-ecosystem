@@ -1,0 +1,19 @@
+{
+  "name": “CoinMarketCap”,
+  "categories": ["Dashboards & Analytics",],
+  "main_category": "Dashboards & Analytics",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://coinmarketcap.com/currencies/archway/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": “coinmarketcap.png”,
+  "cover": "",
+  "github": "",
+  "twitter": "https://x.com/CoinMarketCap",
+  "discord": "",
+  "telegram": "https://t.me/CoinMarketCap"
+}
