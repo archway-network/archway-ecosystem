@@ -1,0 +1,19 @@
+{
+  "name": “Coingecko”,
+  "categories": ["Dashboard & Analytics",],
+  "main_category": "Dashboard & Analytics",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://www.coingecko.com/en/coins/archway",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": “coingecko.png”,
+  "cover": "",
+  "github": "",
+  "twitter": "https://x.com/coingecko",
+  "discord": "https://discord.gg/EhrkaCH",
+  "telegram": "https://t.me/coingecko"
+}
