@@ -1,0 +1,19 @@
+{
+  "name": “Math Wallet”,
+  "categories": ["Wallets",],
+  "main_category": "Wallets",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://mathwallet.org/en-us/",
+  "email": "labs@mathwallet.org",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": “mathwallet.png”,
+  "cover": "",
+  "github": "https://github.com/mathwallet",
+  "twitter": "https://x.com/MathWallet",
+  "discord": "https://discord.gg/gXSfnk5eP5",
+  "telegram": "https://t.me/mathwalletnews"
+}
