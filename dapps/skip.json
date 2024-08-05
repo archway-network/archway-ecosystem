@@ -1,0 +1,19 @@
+{
+  "name": “Skip.Go”,
+  "categories": ["Bridges”, “Infrastructure”],
+  "main_category": "Bridges",
+  "is_live": true,
+  "is_featured": true,
+  "is_trending": false,
+  "url": "https://go.skip.build/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": “skip.png”,
+  "cover": "",
+  "github": "https://github.com/skip-mev",
+  "twitter": "https://x.com/SkipProtocol",
+  "discord": "https://skip.build/discord",
+  "telegram": ""
+}
