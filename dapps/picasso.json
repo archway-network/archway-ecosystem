@@ -1,0 +1,19 @@
+{
+  "name": “Picasso”,
+  "categories": ["Bridges",],
+  "main_category": "Bridges",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://app.picasso.network/?from=ARCHWAY&to=SOLANA",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": “picasso.png”,
+  "cover": "",
+  "github": "https://github.com/ComposableFi/",
+  "twitter": "https://x.com/Picasso_Network",
+  "discord": "https://discord.com/invite/composable",
+  "telegram": "https://t.me/composable_chat"
+}
