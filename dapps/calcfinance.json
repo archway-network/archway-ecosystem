@@ -1,0 +1,19 @@
+{
+  "name": “Calc Finance”,
+  "categories": ["DeFi”],
+  "main_category": "DeFi",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://app.calculated.fi/?chain=archway-1",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": “calcfinance.png”,
+  "cover": "",
+  "github": "https://github.com/calculated-finance",
+  "twitter": "https://twitter.com/CALC_Finance",
+  "discord": "",
+  "telegram": "https://t.me/calcprotocol"
+}
