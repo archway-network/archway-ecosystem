@@ -1,6 +1,6 @@
 {
   "name": “Ctrl Wallet”,
-  "categories": ["Wallets",],
+  "categories": ["Wallets"],
   "main_category": "Wallets",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “ctrl.png”,
+  "logo": “ctrlwallet.png”,
   "cover": "",
   "github": "",
   "twitter": "https://x.com/Ctrl_Wallet",
