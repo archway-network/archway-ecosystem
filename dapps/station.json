@@ -1,0 +1,19 @@
+{
+  "name": “Station”,
+  "categories": ["Wallets",],
+  "main_category": "Wallets",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://station.money/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": “station.png”,
+  "cover": "",
+  "github": "https://github.com/terra-money/station",
+  "twitter": "https://twitter.com/StationWallet",
+  "discord": "https://terra.sc/stationdiscord",
+  "telegram": "https://t.me/station_wallet"
+}
