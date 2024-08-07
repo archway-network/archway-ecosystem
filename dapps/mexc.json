@@ -1,0 +1,19 @@
+{
+  "name": “MEXC”,
+  "categories": ["Exchanges",],
+  "main_category": "Exchanges",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://www.mexc.com/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "mexc.png",
+  "cover": "",
+  "github": "",
+  "twitter": "https://x.com/MEXC_Official",
+  "discord": "https://discord.com/invite/AsDwGJ5T95",
+  "telegram": "https://t.me/MEXCEnglish"
+}
