@@ -1,0 +1,19 @@
+{
+  "name": “Gate.io”,
+  "categories": ["Exchanges",],
+  "main_category": "Exchanges",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://www.gate.io/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": “gate.png”,
+  "cover": "",
+  "github": "https://github.com/gateio",
+  "twitter": "https://x.com/gate_io",
+  "discord": "https://discord.gg/QZWFkuQvzP",
+  "telegram": "https://t.me/gateio_en"
+}
