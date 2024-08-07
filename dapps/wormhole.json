@@ -1,0 +1,19 @@
+{
+  "name": “Wormhole”,
+  "categories": ["Bridges"],
+  "main_category": "Bridges",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://wormhole.com/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": “wormhole.png”,
+  "cover": "",
+  "github": "https://github.com/wormhole-foundation/wormhole",
+  "twitter": "https://x.com/wormhole",
+  "discord": "https://discord.com/invite/wormholecrypto",
+  "telegram": "https://t.me/wormholecrypto"
+}
