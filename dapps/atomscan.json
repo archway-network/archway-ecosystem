@@ -1,0 +1,19 @@
+{
+  "name": "ATOM Scan",
+  "categories": ["Explorers"],
+  "main_category": "Explorers",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://atomscan.com/archway",
+  "email": "contact@atomscan.com",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "atomscan.png",
+  "cover": "",
+  "github": "",
+  "twitter": "https://x.com/atomscan",
+  "discord": "",
+  "telegram": ""
+}
