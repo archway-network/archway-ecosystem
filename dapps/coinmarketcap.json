@@ -1,19 +1,19 @@
 {
-  "name": "StakeBar",
+  "name": "CoinMarketCap",
   "categories": ["Dashboards & Analytics"],
   "main_category": "Dashboards & Analytics",
-  "is_live": false,
+  "is_live": true,
   "is_featured": false,
   "is_trending": false,
-  "url": "",
+  "url": "https://coinmarketcap.com/currencies/archway/",
   "email": "",
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": "Stakebar.png",
+  "logo": "coinmarketcap.png",
   "cover": "",
   "github": "",
-  "twitter": "https://twitter.com/rockawayx_labs",
+  "twitter": "https://x.com/CoinMarketCap",
   "discord": "",
-  "telegram": ""
+  "telegram": "https://t.me/CoinMarketCap"
 }
