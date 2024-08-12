@@ -1,6 +1,6 @@
 {
-  "name": “Gate.io”,
-  "categories": ["Exchanges",],
+  "name": "Gate.io",
+  "categories": ["Exchanges"],
   "main_category": "Exchanges",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “gate.png”,
+  "logo": "gate.png",
   "cover": "",
   "github": "https://github.com/gateio",
   "twitter": "https://x.com/gate_io",
