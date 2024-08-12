@@ -1,0 +1,19 @@
+{
+  "name": "Prisma Exchange",
+  "categories": ["DeFi"],
+  "main_category": "DeFi",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://app.prisma.exchange/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "prisma.png",
+  "cover": "",
+  "github": "",
+  "twitter": "https://x.com/prisma_exchange",
+  "discord": "https://discord.gg/2xHrbYP92G",
+  "telegram": ""
+}
