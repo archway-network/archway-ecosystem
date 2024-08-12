@@ -1,6 +1,6 @@
 {
-  "name": “Dapp Radar”,
-  "categories": ["Dashboards & Analytics",],
+  "name": "Dapp Radar",
+  "categories": ["Dashboards & Analytics"],
   "main_category": "Dashboards & Analytics",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “dappradar.png”,
+  "logo": "dappradar.png",
   "cover": "",
   "github": "",
   "twitter": "https://x.com/DappRadar",
