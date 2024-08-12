@@ -1,6 +1,6 @@
 {
-  "name": “Swing”,
-  "categories": ["Bridges",],
+  "name": "Swing",
+  "categories": ["Bridges"],
   "main_category": "Bridges",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “swingxyz.png”,
+  "logo": "swingxyz.png",
   "cover": "",
   "github": "",
   "twitter": "https://x.com/swing_xyz",
