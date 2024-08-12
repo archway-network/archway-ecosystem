@@ -1,0 +1,19 @@
+{
+  "name": "ExploreMe",
+  "categories": ["Explorers"],
+  "main_category": "Explorers",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://archway.exploreme.pro/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "exploreme.png",
+  "cover": "",
+  "github": "https://github.com/stakeme-team",
+  "twitter": "https://x.com/stakeme_pro",
+  "discord": "https://discord.com/invite/stakeme",
+  "telegram": "https://t.me/stakeme"
+}

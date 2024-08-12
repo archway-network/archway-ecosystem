@@ -1,7 +1,7 @@
 {
     "name": "Crypto.com",
-    "categories": ["DeFi", "Wallets"],
-    "main_category": "DeFi",
+    "categories": ["Exchanges"],
+    "main_category": "Exchanges",
     "is_live": true,
     "is_featured": false,
     "is_trending": false,
