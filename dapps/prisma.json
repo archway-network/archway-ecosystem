@@ -1,6 +1,6 @@
 {
-  "name": “Prisma Exchange”,
-  "categories": ["DeFi",],
+  "name": "Prisma Exchange",
+  "categories": ["DeFi"],
   "main_category": "DeFi",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “prisma.png”,
+  "logo": "prisma.png",
   "cover": "",
   "github": "",
   "twitter": "https://x.com/prisma_exchange",
