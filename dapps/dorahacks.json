@@ -1,6 +1,6 @@
 {
-  "name": “DoraHacks”,
-  "categories": ["Ecosystem Partners",],
+  "name": "DoraHacks",
+  "categories": ["Ecosystem Partners"],
   "main_category": "Ecosystem Partners",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “dorahacks.png”,
+  "logo": "dorahacks.png",
   "cover": "",
   "github": "",
   "twitter": "https://x.com/DoraHacks",
