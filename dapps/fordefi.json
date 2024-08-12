@@ -1,6 +1,6 @@
 {
-  "name": “Fordefi”,
-  "categories": ["Wallets”],
+  "name": "Fordefi",
+  "categories": ["Wallets"],
   "main_category": "Wallets",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “fordefi.png”,
+  "logo": "fordefi.png",
   "cover": "",
   "github": "",
   "twitter": "https://x.com/FordefiHQ",
