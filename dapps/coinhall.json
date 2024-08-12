@@ -1,6 +1,6 @@
 {
   "name": "Coinhall",
-  "categories": ["DeFi"],
+  "categories": ["DeFi", "Bridges"],
   "main_category": "DeFi",
   "is_live": true,
   "is_featured": false,
