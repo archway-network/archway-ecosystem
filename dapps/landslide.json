@@ -1,6 +1,6 @@
 {
-  "name": “Landslide”,
-  "categories": ["Bridges",],
+  "name": "Landslide",
+  "categories": ["Bridges"],
   "main_category": "Bridges",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “landslide.png”,
+  "logo": "landslide.png",
   "cover": "",
   "github": "https://github.com/LandslideNetwork/",
   "twitter": "https://x.com/Landslide_Labs",
