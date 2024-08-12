@@ -1,6 +1,6 @@
 {
-  "name": “Picasso”,
-  "categories": ["Bridges",],
+  "name": "Picasso",
+  "categories": ["Bridges"],
   "main_category": "Bridges",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “picasso.png”,
+  "logo": "picasso.png",
   "cover": "",
   "github": "https://github.com/ComposableFi/",
   "twitter": "https://x.com/Picasso_Network",
