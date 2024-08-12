@@ -1,6 +1,6 @@
 {
-  "name": “Math Wallet”,
-  "categories": ["Wallets",],
+  "name": "Math Wallet",
+  "categories": ["Wallets"],
   "main_category": "Wallets",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “mathwallet.png”,
+  "logo": "mathwallet.png",
   "cover": "",
   "github": "https://github.com/mathwallet",
   "twitter": "https://x.com/MathWallet",
