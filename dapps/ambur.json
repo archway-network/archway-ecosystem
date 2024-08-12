@@ -2,7 +2,7 @@
   "name": "Ambur",
   "categories": ["NFTs"],
   "main_category": "NFTs",
-  "is_live": false,
+  "is_live": true,
   "is_featured": false,
   "is_trending": true,
   "url": "https://ambur.xyz/",
