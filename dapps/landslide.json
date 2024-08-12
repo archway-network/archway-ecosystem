@@ -1,0 +1,19 @@
+{
+  "name": "Landslide",
+  "categories": ["Bridges"],
+  "main_category": "Bridges",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://www.landslide.network/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "landslide.png",
+  "cover": "",
+  "github": "https://github.com/LandslideNetwork/",
+  "twitter": "https://x.com/Landslide_Labs",
+  "discord": "https://discord.com/invite/AQHkYmu46X",
+  "telegram": "https://t.me/landslidenetwork"
+}
