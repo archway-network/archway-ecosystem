@@ -1,5 +1,5 @@
 {
-  "name": “Wormhole”,
+  "name": "Wormhole",
   "categories": ["Bridges"],
   "main_category": "Bridges",
   "is_live": true,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “wormhole.png”,
+  "logo": "wormhole.png",
   "cover": "",
   "github": "https://github.com/wormhole-foundation/wormhole",
   "twitter": "https://x.com/wormhole",
