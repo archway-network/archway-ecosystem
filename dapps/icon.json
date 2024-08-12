@@ -1,6 +1,6 @@
 {
-  "name": “Icon”,
-  "categories": ["Bridges",],
+  "name": "Icon",
+  "categories": ["Bridges"],
   "main_category": "Bridges",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “icon.png”,
+  "logo": "icon.png",
   "cover": "",
   "github": "https://github.com/icon-community",
   "twitter": "https://x.com/helloiconworld",
