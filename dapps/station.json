@@ -1,6 +1,6 @@
 {
-  "name": “Station”,
-  "categories": ["Wallets",],
+  "name": "Station",
+  "categories": ["Wallets"],
   "main_category": "Wallets",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “station.png”,
+  "logo": "station.png",
   "cover": "",
   "github": "https://github.com/terra-money/station",
   "twitter": "https://twitter.com/StationWallet",
