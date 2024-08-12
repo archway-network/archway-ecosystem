@@ -1,5 +1,5 @@
 {
-  "name": “Frontier”,
+  "name": "Frontier",
   "categories": ["Wallets", "Bridges"]
   "main_category": "Wallets",
   "is_live": true,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “frontier.png”,
+  "logo": "frontier.png",
   "cover": "",
   "github": "",
   "twitter": "https://x.com/FrontierDotXYZ",
