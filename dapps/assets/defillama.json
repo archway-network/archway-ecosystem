@@ -1,6 +1,6 @@
 {
-  "name": “DeFi Llama”,
-  "categories": ["Dashboards & Analytics",],
+  "name": "DeFi Llama",
+  "categories": ["Dashboards & Analytics"],
   "main_category": "Dashboards & Analytics",
   "is_live": true,
   "is_featured": false,
@@ -10,7 +10,7 @@
   "phone": "",
   "location": "",
   "summary": "",
-  "logo": “defillama.png”,
+  "logo": "defillama.png",
   "cover": "",
   "github": "",
   "twitter": "https://x.com/DefiLlama",
