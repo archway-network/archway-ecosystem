@@ -1,0 +1,19 @@
+{
+  "name": "Ctrl Wallet",
+  "categories": ["Wallets"],
+  "main_category": "Wallets",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://ctrl.xyz/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "",
+  "logo": "ctrlwallet.png",
+  "cover": "",
+  "github": "",
+  "twitter": "https://x.com/Ctrl_Wallet",
+  "discord": "",
+  "telegram": ""
+}
