@@ -1,0 +1,19 @@
+{
+"name": "SwapFast",
+"categories": ["DeFi", "Bridges"],
+"main_category": "DeFi",
+"is_live": true,
+"is_featured": true,
+"is_trending": false,
+"url": "https://archway.swapfast.app/",
+"email": "",
+"phone": "",
+"location": "",
+"summary": "Your Go-To Solution for Token Swaps and Bridging, Powered Leap",
+"logo": "swapfast.png",
+"cover": "swapfastcover.png",
+"github": "",
+"twitter": "https://x.com/leap_cosmos",
+"discord": "",
+"telegram": "https://t.me/swapfast_support_bot"
+}
