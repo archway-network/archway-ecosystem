@@ -1,0 +1,19 @@
+{
+"name": "SwapFast",
+"categories": ["DeFi"],
+"main_category": "DeFi",
+"is_live": true,
+"is_featured": true,
+"is_trending": false,
+"url": "https://archway.swapfast.app/",
+"email": "",
+"phone": "",
+"location": "",
+"summary": "Bridge, swap, send or buy assets seamlessly with SwapFast powered by Leap",
+"logo": "swapfastlogo.png",
+"cover": "swapfastcover.png",
+"github": "",
+"twitter": "https://x.com/leap_cosmos",
+"discord": "",
+"telegram": ""
+}
