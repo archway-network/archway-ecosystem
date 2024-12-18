@@ -1,0 +1,19 @@
+{
+  "name": "Hanaswap.com",
+  "categories": ["DeFi", "Cross-Chain Swapping", "Bridges"],
+  "main_category": "DeFi",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": true,
+  "url": "https://hanaswap.com/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Hanaswap.com is a decentralized exchange platform. It enables seamless, secure, and efficient token swaps across multiple blockchains without relying on centralized exchanges. Hanaswap.com is powered by ICX and offers 0% additional fees.",
+  "logo": "hanaswapcom.png",
+  "github": "",
+  "twitter": "https://twitter.com/hanawallet",
+  "discord": "",
+  "telegram": ""
+}
+
