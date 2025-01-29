@@ -1,0 +1,19 @@
+{
+  "name": "Ovation",
+  "categories": ["NFTs"],
+  "main_category": "NFTs",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": true,
+  "url": "https://www.ovation.network",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Web3 social platform offering intelligent profiles, personalized portfolios, and a blockchain-enabled UI for a unified NFT experience.",
+  "logo": "ovation-logo.png",
+  "cover": "ovation-cover.png",
+  "github": "",
+  "twitter": "https://x.com/Ovation_Network",
+  "discord": "https://discord.com/invite/E3gZdW727H",
+  "telegram": ""
+}
